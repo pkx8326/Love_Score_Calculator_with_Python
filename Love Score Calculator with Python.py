@@ -77,10 +77,3 @@ elif total_score >= 40 and total_score <= 50:
     print(f"Your score is {total_score}, you are alright together.")
 else:
     print(f"Your score is {total_score}.")
-
-
-# In[ ]:
-
-
-
-
