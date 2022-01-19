@@ -12,3 +12,5 @@ The calculation of the Love Score:
     - For any other love score, only prints: "Your score is **love_score**."
 
 *There is no reason or logic behind the calculation of the love score. It's just for fun!
+
+Credit: This program is a modification of a Python program found in Angela Yu's "100 Days of Code: The Complete Python Pro Bootcamp" on Udemy. You can go to the course's page by clicking the following link (not a ref. link): https://www.udemy.com/course/100-days-of-code/
