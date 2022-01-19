@@ -15,7 +15,7 @@
 #print: "Your score is **love_score**, you go together like Coke and Mentos."
 #If the love score is between 40 and 50:
 #print: "Your score is **love_score**, you are alright together."
-#For any other love score, only print: "Your score is **love_score**.""
+#For any other love score, only print: "Your score is **love_score**."
 
 #-----------There is no logic or reason behind the calculation of the love score---------------
 #-----------The calculation could have also been something else-----------------
